@@ -3,7 +3,7 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>Apoolo</groupId>
-	<artifactId>src.net.minecraft</artifactId>
+	<artifactId>Apollo</artifactId>
 	<version>1.0dev</version>
 	<name>Apollo</name>
 	<description>Apollo is one software for MCPE. This is source of Spigot ,with RakLib from Nukkit!</description>

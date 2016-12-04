@@ -2,8 +2,7 @@ checkout:
   post:
     - git submodule sync
     - git submodule update --init
-    - mvn install
-    - cp -R ./target/Apollo-1.0dev.jar $CIRCLE_ARTIFACTS
+    - mvn package
 
 machine:
   java:

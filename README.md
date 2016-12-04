@@ -8,7 +8,7 @@ Apollo is one software for MCPE. This is source of Spigot ,with RakLib from Nukk
 ## Information
 
 - Need to communicate with us? Join our [Telegram](https://telegram.me/joinchat/Ca8L9T9P01PtR1bOEwtxuw) group!
-- We are a edited version of Spigot. We have edited RakLib Spigot from Nukkit
+- We are a edited version of Spigot. We have edited RakLib Spigot from Nukkit.
 - You can download .jar from Circle CI. Tab to latest build,tap to artifacts selection,tap to DevTools and download Apollo1.0dev.jar
 
 ## Thanks
